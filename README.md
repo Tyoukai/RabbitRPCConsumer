@@ -1,0 +1,2 @@
+# RabbitRPCConsumer
+手动实现一个基于rabbitMQ的RPC客户端
